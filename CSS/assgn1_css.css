@@ -1,0 +1,30 @@
+body{
+
+    background-color: aqua;
+}
+
+h4{
+    background-color: yellow;
+}
+
+h2{
+    color: blueviolet;
+}
+
+h1{
+    border: 1px solid;
+}
+
+#textblock{
+    border: 5px solid gray;
+    width: 800px;
+    height: 400px;
+}
+
+a{
+    color: red;
+}
+
+a:visited{
+    color: blue;
+}

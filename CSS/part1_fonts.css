@@ -1,0 +1,23 @@
+h1{
+    font-family: cursive;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+p{
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+body{
+    font-size: 20px;
+}
+
+/* 1em=16px */
+
+#two{
+
+    font-size: 01.50em;
+}
+

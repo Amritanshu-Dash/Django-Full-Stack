@@ -16,3 +16,22 @@ li{
 p{
     color: #0895a8;
 }
+
+body{
+    background-color: bisque;
+    /*
+    background: url();
+    background-repeat: repeat.....or....no-repeat; 
+    */
+}
+
+div{
+    background-color: red;
+    border-color: #0895a8;
+    border-width: thick;
+    border-style: dotted;
+}
+
+p{
+    color: green;
+}
